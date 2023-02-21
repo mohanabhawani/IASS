@@ -136,3 +136,4 @@ bottom_frame=tk.Frame(root)
 
 
 bottom_frame.pack(side=tk.BOTTOM,pady=10)
+root.mainloop()
